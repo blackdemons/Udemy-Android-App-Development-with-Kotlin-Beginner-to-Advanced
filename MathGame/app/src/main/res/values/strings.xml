@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Math Game</string>
+    <string name="btn_addition">Addition</string>
+    <string name="btn_subtaction">Subtraction</string>
+    <string name="btn_multiplication">Multiplication</string>
+    <string name="tv_scope">Scope</string>
+    <string name="tv_scopeCount">0</string>
+    <string name="tv_life">Life</string>
+    <string name="tv_lifeCount">3</string>
+    <string name="tv_time">Time</string>
+    <string name="tv_timeCount">60</string>
+
+    <string name="tv_Quest">Quest</string>
+    <string name="et_answerHint">Write your answer here</string>
+
+    <string name="tv_QuestAnswerRight">Congratulations, your answer is correct</string>
+    <string name="tv_QuestAnswerFalse">Sorry, your answer is incorrect</string>
+    <string name="tv_QuestAnswerTimerLeft">Sorry, Time is up!</string>
+
+    <string name="btn_ok">OK</string>
+    <string name="btn_nextQuest">Next</string>
+
+    <string name="quest_text"> Please write an answer or click the next button</string>
+    <string name="game_over">Game Over</string>
+
+
+    <string name="tv_Congratulations">Congratulations</string>
+    <string name="tv_ResultScore">Score: </string>
+    <string name="tv_ResultScoreFinish">Your score: </string>
+    <string name="btn_RestartGame">Play again</string>
+    <string name="btn_ExitGame">Exit</string>
+
+</resources>
