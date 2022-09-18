@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WebView.iml" filepath="$PROJECT_DIR$/.idea/modules/WebView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WebView.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WebView.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WebView.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WebView.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WebView.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WebView.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WebView.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WebView.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

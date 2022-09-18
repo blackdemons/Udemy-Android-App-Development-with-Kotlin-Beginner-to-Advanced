@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.customview:customview:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1cfdca0a52d476a8f2d6fbf7867352e3/transformed/customview-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d4f3f5c95f982e2dc3f0f7ba71377d9f/transformed/customview-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fbafe5a4925bbb67293152f7817a5b0c/transformed/customview-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Users/voron/.gradle/caches/transforms-3/0a0818b4d8ebad750ba4f790743c13a4/transformed/customview-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Users/voron/.gradle/caches/transforms-3/3991829a8e3e1788fe72dde5aa6e89ab/transformed/customview-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Users/voron/.gradle/caches/transforms-3/fbafe5a4925bbb67293152f7817a5b0c/transformed/customview-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Users/voron/.gradle/caches/transforms-3/fbafe5a4925bbb67293152f7817a5b0c/transformed/customview-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Users/voron/.gradle/caches/transforms-3/fbafe5a4925bbb67293152f7817a5b0c/transformed/customview-1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../Users/voron/.gradle/caches/modules-2/files-2.1/androidx.customview/customview/1.0.0/61f6a717d144dff3a6bda413d9abeeb2bca71581/customview-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

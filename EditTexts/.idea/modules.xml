@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Edit_Texts.iml" filepath="$PROJECT_DIR$/.idea/modules/Edit_Texts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Edit_Texts.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Edit_Texts.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Edit_Texts.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Edit_Texts.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Edit_Texts.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Edit_Texts.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Edit_Texts.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Edit_Texts.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

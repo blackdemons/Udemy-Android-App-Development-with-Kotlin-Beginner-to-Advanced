@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test:runner:1.4.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/16aa021179909430e7815d6a0eccc332/transformed/runner-1.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a3b170758748ee4b7d7c6a9b26bfe765/transformed/runner-1.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/44cee0ef623f924fff935dfe5ed777b3/transformed/runner-1.4.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Users/voron/.gradle/caches/transforms-3/130bfd352cfb2f8ea8dc7885ef10d3e6/transformed/runner-1.4.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Users/voron/.gradle/caches/transforms-3/32ccae52efdf63babf09b16521585240/transformed/runner-1.4.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Users/voron/.gradle/caches/transforms-3/44cee0ef623f924fff935dfe5ed777b3/transformed/runner-1.4.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Users/voron/.gradle/caches/transforms-3/44cee0ef623f924fff935dfe5ed777b3/transformed/runner-1.4.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Users/voron/.gradle/caches/transforms-3/44cee0ef623f924fff935dfe5ed777b3/transformed/runner-1.4.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../../Users/voron/.gradle/caches/modules-2/files-2.1/androidx.test/runner/1.4.0/aee6a62a26d9b413dadc1732e66cc4ef3bcf9d61/runner-1.4.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../Users/voron/.gradle/caches/modules-2/files-2.1/androidx.test/runner/1.4.0/11ef580a9f2ea2fba4d060a3121506197bd6b183/runner-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

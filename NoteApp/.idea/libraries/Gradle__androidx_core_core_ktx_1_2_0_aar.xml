@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.core:core-ktx:1.2.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/671e3099d1322d0ee013787f84ade25a/transformed/core-ktx-1.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5dc101a245e3b6c802416eb0100f6272/transformed/core-ktx-1.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bb377ca421ff02340f3cf6acf14d4a57/transformed/core-ktx-1.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Users/voron/.gradle/caches/transforms-3/b3543b0b99f946666f37fdf84aeeb4a5/transformed/core-ktx-1.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Users/voron/.gradle/caches/transforms-3/2ccf51e5138608ebf82153da4c5ce21a/transformed/core-ktx-1.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Users/voron/.gradle/caches/transforms-3/bb377ca421ff02340f3cf6acf14d4a57/transformed/core-ktx-1.2.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Users/voron/.gradle/caches/transforms-3/bb377ca421ff02340f3cf6acf14d4a57/transformed/core-ktx-1.2.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Users/voron/.gradle/caches/transforms-3/bb377ca421ff02340f3cf6acf14d4a57/transformed/core-ktx-1.2.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../Users/voron/.gradle/caches/modules-2/files-2.1/androidx.core/core-ktx/1.2.0/75eb613f7dec270f611d0adff5fcb0e8b617fe0a/core-ktx-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

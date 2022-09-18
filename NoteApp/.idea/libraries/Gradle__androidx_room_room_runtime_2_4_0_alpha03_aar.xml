@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.room:room-runtime:2.4.0-alpha03@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../../../../Users/voron/.gradle/caches/transforms-3/089f9c85062ee663f80ad8a318e0a314/transformed/room-runtime-2.4.0-alpha03/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../Users/voron/.gradle/caches/transforms-3/089f9c85062ee663f80ad8a318e0a314/transformed/room-runtime-2.4.0-alpha03/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../Users/voron/.gradle/caches/transforms-3/089f9c85062ee663f80ad8a318e0a314/transformed/room-runtime-2.4.0-alpha03/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Users/voron/.gradle/caches/transforms-3/089f9c85062ee663f80ad8a318e0a314/transformed/room-runtime-2.4.0-alpha03/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../Users/voron/.gradle/caches/modules-2/files-2.1/androidx.room/room-runtime/2.4.0-alpha03/ca150cc031f25c593e395b3e943e67b5a0c9862c/room-runtime-2.4.0-alpha03-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

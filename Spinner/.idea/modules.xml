@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spinner.iml" filepath="$PROJECT_DIR$/.idea/modules/Spinner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Spinner.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Spinner.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Spinner.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Spinner.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Spinner.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Spinner.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Spinner.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Spinner.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
