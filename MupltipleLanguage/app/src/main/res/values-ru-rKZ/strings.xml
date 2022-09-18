@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Множественные языки</string>
+    <string name="hello">Привет мир</string>
+    <string name="show_toast">Показать тост-сообщение</string>
+    <string name="toast">Это тост-сообщение</string>
+</resources>

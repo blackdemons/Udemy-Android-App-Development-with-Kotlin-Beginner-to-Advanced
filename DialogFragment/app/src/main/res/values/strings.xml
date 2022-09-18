@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DialogFragment</string>
+    <string name="btn_openDialogFragment">Show Dialog Fragment</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="tv_dialogTitle">This is Dialog Fragment</string>
+    <string name="btn_dialogOK">Send</string>
+    <string name="btn_dialogCancel">Cancel</string>
+    <string name="et_dialogName">Name</string>
+    <string name="et_dialogAge">Age</string>
+
+    <string name="et_dialogHintName">Write your name</string>
+    <string name="et_dialogHintAge">Write your age</string>
+
+</resources>
